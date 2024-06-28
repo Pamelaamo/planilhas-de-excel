@@ -17,3 +17,9 @@ main {
     text-align: center;
     background-color: burlywood;
 }
+
+footer {
+    position: relative;
+    top: 500px;
+    text-align: center;
+}
