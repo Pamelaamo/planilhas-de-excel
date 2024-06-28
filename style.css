@@ -4,22 +4,15 @@ body {
 
 }
 
-main {
-
-}
-
-#sectionum-id {
-
-}
 
 #h1-primeiro {
-    
+    padding: 20px;
     text-align: center;
     background-color: burlywood;
 }
 
 footer {
     position: relative;
-    top: 500px;
+    top: 470px;
     text-align: center;
 }
